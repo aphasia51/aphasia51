@@ -1,3 +1,5 @@
+![](https://gitee.com/xiahuas/picture-bed/raw/master/wallhaven-lmjgpr.jpg)  
+
 <h1 align="center">Hi 👋,I'm Aphasia</h1>
 <h3 align="center">A would-be back-end developer !</h3>
 
@@ -19,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiahuas&show_icons=true&locale=en" alt="xiahuas" /></p>
 
-![tu](https://github-readme-stats.vercel.app/api?username=xiahuas&show_icons=true&locale=en)
