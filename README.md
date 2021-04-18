@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiahuas&label=Profile%20views&color=0e75b6&style=flat" alt="xiahuas" /> </p>
 
-- 🌱 I’m currently learning : **Python**
+- 🌱 I’m currently learning : **Python** , **Linux** , **Django**
 
-- 📝 I regularly write articles on : [xiahuas.gitee.io](xiahuas.gitee.io)
+- 📝 I regularly write articles on : [Gitee-Blog](xiahuas.gitee.io)
 
-- 📫 How to reach me : **xiahuas@outlook.com**
+- 📫 How to reach me : [Outlook]() -> xiahuas@outlook.com
 
-- 📄 Know about my experiences : [xiahuas.gitee.io](xiahuas.gitee.io)
+- 📄 Know about my experiences : [Gitee-Blog](xiahuas.gitee.io)
 
 - ⚡ Fun fact : **The school meals are very good !**
 
