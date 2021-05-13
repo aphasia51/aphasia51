@@ -9,10 +9,6 @@
 
 - 📝 I regularly write articles on : [Gitee-Blog](xiahuas.gitee.io)
 
-- 📫 How to reach me : [Outlook]() -> xiahuas@outlook.com
-
-- 📄 Know about my experiences : [Gitee-Blog](xiahuas.gitee.io)
-
 - ⚡ Fun fact : **The school meals are very good !**
 
 
