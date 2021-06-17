@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning : **Python , Go , Linux , Mysql , Django**
 
-- 📝 I regularly write articles on : [Blog](aphasia.top)
+- 📝 I regularly write articles on : [Blog](https://www.aphasia.top)
 
 - ⚡ Fun fact : **The school meals are very good !**
