@@ -10,9 +10,9 @@
 <br>
 <br>
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiahuas&label=Profile%20views&color=0e75b6&style=flat" alt="xiahuas" /> </p>
+
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 - 🌱 I’m currently learning : **Python , Go , Linux , Mysql , Django**
 
