@@ -7,6 +7,8 @@
 ### Hi! 😄 I am Aphasia, a would-be back-end developer!
 
 <br>
+<br>
+<br>
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 - 🌱 I’m currently learning : **Python , Go , Linux , Mysql , Django**
