@@ -11,5 +11,3 @@
 - 📝 I regularly write articles on : [Blog](https://www.aphasia.top)
 
 - ⚡ Fun fact : **The school meals are very good !**
-
-![](https://gitee.com/xiahuas/picture-bed/raw/master/img/fenge.png)
