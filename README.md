@@ -6,7 +6,7 @@
 
 ### Hi! 😄 I am Aphasia, a would-be back-end developer!
 
-- 🌱 I’m currently learning : **Python , Go , Linux , Mysql , Django**
+- 🌱 I’m currently learning : **Python , Go , Linux , Mysql , Redis**
 
 - 📝 I regularly write articles on : [Blog](https://www.aphasia.top)
 
