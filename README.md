@@ -11,3 +11,9 @@
 - 📝 I regularly write articles on : [Blog](https://www.aphasia.top)
 
 - ⚡ Fun fact : **The school meals are very good !**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,html,md,mysql,redis,linux,git,github,vim,vscode" />
+  </a>
+</p>
