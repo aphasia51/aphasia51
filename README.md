@@ -12,8 +12,8 @@
 
 - ⚡ Fun fact : **The school meals are very good !**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,html,md,mysql,redis,linux,git,github,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,linux,neovim" />
   </a>
 </p>
