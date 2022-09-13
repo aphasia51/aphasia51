@@ -14,6 +14,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=go,py,mysql,redis,docker,nginx,linux,neovim" />
   </a>
 </p>
